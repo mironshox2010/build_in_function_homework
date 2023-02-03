@@ -8,8 +8,9 @@ def main():
     Returns:
         float: the value of the expression
     """
-    return pow*3(1,2+ n)
-n float('n')
+     return 3*(7/5-9/4)
+    
+
 
 print(main())
 
